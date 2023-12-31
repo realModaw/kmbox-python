@@ -4,7 +4,7 @@ import time
 
 ##
 ## WORKING KMBOX support clone for python.
-##
+## FOR KMBOX B+ Pro
 
 def find_port(target_description):
     ports = serial.tools.list_ports.comports()
