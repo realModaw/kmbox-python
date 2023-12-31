@@ -1,4 +1,4 @@
-import serial
+import serial #pip install pyserial
 import serial.tools.list_ports
 import time
 
